@@ -2,6 +2,10 @@
 
 :- include('map.pl').
 :- include('lokasi.pl').
+:- include('player.pl').    
+:- include('bangkrut.pl').
+:- include('kartu.pl').
+:- include('worldtour.pl').
 
 in_game(false).
 

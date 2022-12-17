@@ -1,5 +1,4 @@
-:- include('lokasi.pl').
-:- include('map.pl').
+
 
 :- dynamic(putaran/2).
 
@@ -28,21 +27,19 @@ totalUang(player2,350).
 totalProperti(player1,600).
 totalProperti(player2,600).
 
-listProperti(player1,[b1,ae,b2,aa]).
+listProperti(player1,[]).
 listProperti(player2,[]).
 
 listCard(player1,[]).
-listCard(player2,[2,3]).
+listCard(player2,[]).
 
 % Banyak item dalam list
-banyakProperti(player1,2).
+banyakProperti(player1,0).
 banyakProperti(player2,0).
 banyakCard(player1,0).
-banyakCard(player2,2).
+banyakCard(player2,0).
 
-% Kondisi Awal
-player(player1,0,10000,0,10000).
-player(player2,0,10000,0,10000).
+
 
 
 
