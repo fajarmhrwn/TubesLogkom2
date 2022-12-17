@@ -1,0 +1,29 @@
+1. COMPLETED TASKS
+* properti.pl - revisi 1
+* lokasi.pl - revisi 1
+* kartu.pl 
+* penjara.pl
+2. ONGOING TASKS
+* dadu.pl - revisi 1
+* map.pl - revisi 1
+* worldtour.pl
+* player.pl
+3. UNSTARTED TASKS
+* perpajakan.pl
+Pembagian Tugas :
+1. Fajar Maulana Herawan (13521080)
+* Dadu
+* Bonus Coin Flip
+2. Vieri Fajar Firdaus (13521099)
+* Papan
+* World Tour
+* Revisi dadu
+3. Muhammad Rifqy Farhansyah (13521166) 
+* Lokasi
+* Properti
+* Revisi properti, lokasi, player
+4. Muhammad Abdul Aziz Ghazali (1352128)
+* Pemain
+* Bangkrut
+5. Maggie Zeta Rosida S (13521117)
+* chanceCard, perpajakan, penjara
